@@ -1,0 +1,2 @@
+add_lunch_combo bootleg_klteduos-user
+add_lunch_combo bootleg_klteduos-userdebug
